@@ -1,0 +1,4 @@
+func main() {
+  i: i32 = 5;
+  i.lol();
+}
